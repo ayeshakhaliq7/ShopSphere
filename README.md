@@ -9,7 +9,7 @@ A full-stack e-commerce web application built with the **MERN stack** (MongoDB, 
 ![Home](docs/home.png) ![Shop](docs/Shop.png) ![Product Details](docs/product-details.png) ![Cart](docs/cart.png) ![Checkout](docs/checkout.png) ![Admin Dashboard](docs/dashboard.png)
 
 ```
-docs/
+doc/
   home.png
   shop.png
   product-details.png
